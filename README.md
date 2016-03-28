@@ -1,2 +1,2 @@
 # JavaScript
-I want to learn Javascript.
+Hello JS!
